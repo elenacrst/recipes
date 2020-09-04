@@ -1,0 +1,12 @@
+[
+  {
+    "image": "/images/1033/dynamic/foodandrecipes/2015/07/TANDORI_GRILLED_SHRIMP_1053_800x800.jpg",
+    "title": "Summer Grilling",
+    "filter": "[\\\"contentTags.food_cooking method.tags:Grilling\\\"]"
+  },
+  {
+    "image": "/images/1033/dynamic/foodandrecipes/2014/06/FetaStuffedCherryTomatoes_267_600.jpg",
+    "filter": "[\\\"contentTags.food_cuisines.tags:Italian\\\"]",
+    "title": "Italian"
+  }
+]
