@@ -4,4 +4,4 @@
 
 
 
-Features: back-end API integration, image loading with placeholder, snackbar, live data, unit testing, custom list with empty view.
+Features: back-end API integration, image loading with placeholder, snackbar, live data, unit testing, custom list with empty view, product flavors, keystore configuration for release.
